@@ -1,1 +1,3 @@
-<h1>이제부터 시작이야</h1>
+<h1>Jaeha Lee | Software Engineer</h1>
+
+<a>Hi, I am a student at The Ohio State University.</a>
